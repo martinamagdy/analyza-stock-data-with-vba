@@ -1,1 +1,1 @@
-# analyza-stock-data-with-vba
+# analyze-stock-data-with-vba
